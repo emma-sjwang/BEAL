@@ -204,7 +204,6 @@ def main():
         optim_gen.load_state_dict(checkpoint['optim_state_dict'])
         optim_dis.load_state_dict(checkpoint['optim_dis_state_dict'])
         optim_dis2.load_state_dict(checkpoint['optim_dis2_state_dict'])
-        optim_adv.load_state_dict(checkpoint['optim_adv_state_dict'])
 
     trainer = Trainer.Trainer(
         cuda=cuda,
