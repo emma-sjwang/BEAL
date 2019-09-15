@@ -52,7 +52,7 @@ After installing the dependency:
     ```
 
 
-### Citing IBN-Net
+### Citation
 ``` 
 @inproceedings{wang2019boundary,
   title={Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation},
