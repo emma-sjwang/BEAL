@@ -52,3 +52,15 @@ After installing the dependency:
     ```
 
 
+### Citing IBN-Net
+``` 
+@inproceedings{wang2019boundary,
+  title={Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation},
+  author={Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng, Pheng-Ann},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={To appear},
+  year={2019},
+  organization={Springer}
+}
+``` 
+
