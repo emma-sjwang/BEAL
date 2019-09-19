@@ -38,7 +38,10 @@ After installing the dependency:
     ```
 
 2. Configure your dataset path in [train.py](https://github.com/EmmaW8/BEAL/blob/master/train.py) with parameter '--data-dir'.
-
+    Dataset download link: 
+        [DGS](http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/enter.php)
+        [RIM-ONE](http://medimrg.webs.ull.es/research/downloads/)
+        [Refuge](https://refuge.grand-challenge.org)
 3. You can train deeplab v3+ using mobilenetv2 or others as backbone.
 
     To train it, please do:
