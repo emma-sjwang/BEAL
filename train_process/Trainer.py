@@ -248,7 +248,7 @@ class Trainer(object):
 
             # cup_dice, disc_dice = dice_coeff_2label(oS, target_map)
 
-            loss_seg.backward(retain_graph=True)
+            loss_seg.backward()
             # self.optim_gen.step()
 
             # write image log
