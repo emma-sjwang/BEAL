@@ -61,7 +61,7 @@ After installing the dependency:
   title={Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation},
   author={Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng, Pheng-Ann},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={To appear},
+  pages={102--110},
   year={2019},
   organization={Springer}
 }
