@@ -29,7 +29,6 @@ After installing the dependency:
     ```
 
 1. Install dependencies:
-
     For PyTorch dependency, see [pytorch.org](https://pytorch.org/) for more details.
 
     For custom dependencies:
@@ -42,6 +41,8 @@ After installing the dependency:
         [DGS](http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/enter.php)
         [RIM-ONE](http://medimrg.webs.ull.es/research/downloads/)
         [Refuge](https://refuge.grand-challenge.org)
+        
+OR you can download an already preprocessed data from this [link](https://drive.google.com/file/d/1B7ArHRBjt2Dx29a3A6X_lGhD0vDVr3sy/view?usp=sharing).
 3. You can train deeplab v3+ using mobilenetv2 or others as backbone.
 
     To train it, please do:
