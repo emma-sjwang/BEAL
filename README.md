@@ -4,7 +4,7 @@ Code for paper 'Boundary and Entropy-driven Adversarial
 Learning for Fundus Image Segmentation' early accepted by MICCAI 2019.
 
 ### Introduction
-This is a PyTorch(1.0.1.post2) implementation of [BEAL](https://github.com/EmmaW8/BEAL). 
+This is a PyTorch(1.0.1.post2) implementation of [BEAL](https://github.com/emma-sjwang/BEAL). 
 The code was tested with Anaconda and Python 3.7.1.
 ```Shell
     conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
@@ -24,7 +24,7 @@ After installing the dependency:
 
 0. Clone the repo:
     ```Shell
-    git clone https://github.com/EmmaW8/BEAL.git
+    git clone https://github.com/emma-sjwang/BEAL.git
     cd BEAL
     ```
 
@@ -36,7 +36,7 @@ After installing the dependency:
     
     ```
 
-2. Configure your dataset path in [train.py](https://github.com/EmmaW8/BEAL/blob/master/train.py) with parameter '--data-dir'.
+2. Configure your dataset path in [train.py](https://github.com/emma-sjwang/BEAL/blob/master/train.py) with parameter '--data-dir'.
     Dataset download link: 
         [DGS](http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/enter.php)
         [RIM-ONE](http://medimrg.webs.ull.es/research/downloads/)
